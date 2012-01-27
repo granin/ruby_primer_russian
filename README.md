@@ -1,4 +1,4 @@
-# The Ruby Primer
+# Введение в Ruby 
 
 © Copyright 2011 [C42 Engineering][]. All Rights Reserved.
 
